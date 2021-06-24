@@ -1,0 +1,4 @@
+[  
+    { "caption": "KDiff3: Diff Groups", "command": "kdiff3_groups" },
+    { "caption": "KDiff3: Diff Tabs", "command": "kdiff3_tabs" }  
+] 
